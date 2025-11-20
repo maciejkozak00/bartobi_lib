@@ -1,0 +1,11 @@
+PointerAlignment: Left
+DerivePointerAlignment: false
+BraceWrapping:
+  AfterClass: true
+  AfterFunction: true
+  AfterStruct: true
+  AfterEnum: true
+  AfterNamespace: true
+  AfterUnion: true
+  BeforeElse: true
+  IndentBraces: false
